@@ -1,0 +1,6 @@
+Listado de rutas de carpetas para el volumen TOSHIBA EXT
+El n£mero de serie del volumen es 00000076 92C8:E97A
+D:\MEDINOTI\-A
+Ruta de acceso no v lida: \MEDINOTI\-A
+No existe ninguna subcarpeta 
+

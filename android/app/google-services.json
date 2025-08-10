@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636561682070",
+    "project_id": "medinoti-f82c7",
+    "storage_bucket": "medinoti-f82c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636561682070:android:d608dba0432eb0ce92dcb7",
+        "android_client_info": {
+          "package_name": "com.example.medinoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636561682070-tlbrqvehh4r8k2i3pa2gvjdai0cga769.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medinoti",
+            "certificate_hash": "aeb0cc06b574a247811902a58c2ed4be8a3259f8"
+          }
+        },
+        {
+          "client_id": "636561682070-eutip54f70125p8c95pd2g9ll1805tqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdGEAHf4eP0bpJoImz9jHhJAeWVZYcqsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636561682070-eutip54f70125p8c95pd2g9ll1805tqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
